@@ -21,13 +21,13 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
+  Github        = "jerdog"
+#  Email         = "email@example.com"
+  Twitter       = "IAmJerdog"
+  LinkedIn      = "jeremymeiss"
+#  Stackoverflow = "username"
+  Medium        = "jeremymeiss"
+  Telegram      = "IAmJerdog"
 
 ## Main Menu
 [[menu.main]]
