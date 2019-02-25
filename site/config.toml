@@ -12,7 +12,7 @@ theme = "hugo-sustain"
   post = "/:slug"
 
 [params]
-  avatar = "profile.png"
+  avatar = "profile.jpg"
   author = "Jeremy Meiss"
   description = "DevRel Professional, Community Fiend, Herder of Cats"
 
