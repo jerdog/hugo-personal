@@ -28,6 +28,8 @@ theme = "hugo-sustain"
 #  Stackoverflow = "username"
   Medium        = "jeremymeiss"
   Telegram      = "IAmJerdog"
+  Gitlab        = "jerdog"
+  DevTo         = "jerdog"
 
 ## Main Menu
 [[menu.main]]
